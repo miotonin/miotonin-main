@@ -2,8 +2,14 @@ body{
     text-align: center;
     background-color: black;
     color: white;
+  font-family: helvetica;
 }
-.sections{
+section{
     display: flex;
+  justify-content: center;
     border: #ffffff dotted;
+  padding: 10px;
+}
+footer{
+  padding: 20px;
 }
